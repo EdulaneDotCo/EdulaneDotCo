@@ -1,8 +1,8 @@
-# Welcome to EDULANE.CO! 🎓
+# Welcome to edulane.co 🎓
 
 ## About Us ℹ️
 
-Welcome to EDULANE.CO, your trusted partner in tech education! We are a dedicated Learning Management System (LMS) company passionate about empowering learners worldwide with practical and in-demand tech skills. Whether you're starting your coding journey or aiming to advance your career, we're here to support you every step of the way.
+Welcome to edulane.co, your trusted partner in tech education! We are a dedicated Learning Management System (LMS) company passionate about empowering learners worldwide with practical and in-demand tech skills. Whether you're starting your coding journey or aiming to advance your career, we're here to support you every step of the way.
 
 ## Our Tech Courses 🚀
 
