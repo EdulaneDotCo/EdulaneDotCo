@@ -1,4 +1,4 @@
-# Welcome to Edulane-Code GitHub Profile! 🎓
+# Welcome to EDULANE.CO! 🎓
 
 ## About Us ℹ️
 
