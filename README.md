@@ -1,3 +1,5 @@
+![Welcome to edulane.co](https://res.cloudinary.com/dj2j9slz5/image/upload/v1720289745/edulane.co_sui2nh.jpg)
+
 # Welcome to edulane.co 🎓
 
 ## About Us ℹ️
