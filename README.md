@@ -1,4 +1,4 @@
-![Welcome to edulane.co](https://res.cloudinary.com/dj2j9slz5/image/upload/v1720289745/edulane.co_sui2nh.jpg)
+![Welcome to edulane.co](https://res.cloudinary.com/dj2j9slz5/image/upload/v1720330163/edulane-github_rfk5p1.jpg)
 
 # Welcome to edulane.co 🎓
 
